@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Excel Parser",
+    "description": "Web application that allows to upload Excel files, process them, and store the data in database.",
+    "url": "https://github.com/F1yrane/ExcelParser"
+  },
+  {
+    "title": "Wallpaper Changer",
+    "description": "Console application that changes the wallpaper depending on the time and weather conditions.",
+    "url": "https://github.com/F1yrane/Wallpaper-Changer"
+  },
+  {
+    "title": "My Resume Site",
+    "description": "My resume site includes my experience and development skills and deployed to GitHub pages.",
+    "url": "https://github.com/F1yrane/PersonalSite"
+  },
+  {
+    "title": "Twitter Clone",
+    "description": "Application written in Python similar to Twitter, providing the ability to blog for users.",
+    "url": "https://github.com/F1yrane/mini-blog"
+  }
+]
