@@ -1,17 +1,17 @@
 [
   {
     "name": "home",
-    "src": "images/bites-header.jfif",
+    "src": "images/bites-header.webp",
     "alt": "hello-world"
   },
   {
     "name": "about",
-    "src": "images/motion-background.jpg",
+    "src": "images/motion-background.webp",
     "alt": "gray abstract background"
   },
   {
     "name": "portfolio",
-    "src": "images/meme-about-coding.jpg",
+    "src": "images/meme-about-coding.webp",
     "alt": "meme about coders 90% time is fixing bags"
   }
 ]
